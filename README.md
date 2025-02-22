@@ -1,3 +1,3 @@
 # Spotify-Clone
 
-Spotify website clone using HTML & CSS.
+This is a clone of the Spotify website made using HTML & CSS.
